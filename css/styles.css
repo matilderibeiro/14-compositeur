@@ -110,6 +110,12 @@ main .titrage-partitions-main h3 {
   letter-spacing: 7px;
 }
 
+main .partitions-main {
+  text-align: center;
+  background: #935e36;
+  color: #bf996f;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
