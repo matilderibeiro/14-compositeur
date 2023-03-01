@@ -122,6 +122,11 @@ main .partitions-main {
   padding-bottom: 20px;
 }
 
+.partitions-page-deux {
+  max-width: 200px;
+  margin: auto;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
