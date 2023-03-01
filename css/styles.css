@@ -31,6 +31,13 @@ header {
   font-size: 13px;
   letter-spacing: 7px;
 }
+
+header nav {
+  padding: 20px;
+  text-align: center;
+  color: #e2e2e1;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
