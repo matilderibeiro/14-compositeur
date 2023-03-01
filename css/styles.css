@@ -21,6 +21,16 @@ header {
   background-color: #2f5c75;
 }
 
+.titre-principal-header {
+  position: absolute;
+  top: 10%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  color: #9c804d;
+  font-size: 13px;
+  letter-spacing: 7px;
+}
 footer {
   background: #024a5e;
   color: #b18b70;
