@@ -16,6 +16,11 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  background-color: #2f5c75;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
