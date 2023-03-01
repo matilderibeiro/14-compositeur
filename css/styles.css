@@ -54,6 +54,10 @@ p {
   text-orientation: upright;
 }
 
+main .compositeur-fond p {
+  background-color: #e2e2e1;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
