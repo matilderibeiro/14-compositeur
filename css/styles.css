@@ -116,6 +116,12 @@ main .partitions-main {
   color: #bf996f;
 }
 
+.partitions-page-un {
+  max-width: 200px;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
