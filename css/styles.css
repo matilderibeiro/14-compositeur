@@ -74,6 +74,12 @@ main .realisateur-fond p {
   margin: 0;
 }
 
+h3 {
+  font-size: 35px;
+  text-align: center;
+  margin: 0px;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
