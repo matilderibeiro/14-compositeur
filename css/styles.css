@@ -104,6 +104,12 @@ main .musique-main {
   color: #bf996f;
 }
 
+main .titrage-partitions-main h3 {
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 7px;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
