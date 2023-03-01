@@ -59,7 +59,6 @@ main .compositeur-fond p {
 .titre-nom-realisateur {
   position: absolute;
   top: 120%;
-  left: 38%;
   transform: translate(-50%, -50%);
   font-size: 24px;
   font-size: 22px;
@@ -75,26 +74,19 @@ main .realisateur-fond p {
 h3 {
   font-size: 35px;
   text-align: center;
-  margin: 0px;
 }
 
 h4 {
   font-size: 19px;
   text-align: right;
-  padding-left: 10px;
 }
 
-main .bande-annonce-fond a {
   width: 100%;
-  background-color: black;
-  color: white;
   align-items: center;
 }
 
-main .titrage-musique-main h3 {
   font-size: 30px;
   text-align: center;
-  letter-spacing: 7px;
 }
 
 main .musique-main {
