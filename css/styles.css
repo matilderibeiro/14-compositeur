@@ -93,6 +93,12 @@ main .bande-annonce-fond a {
   align-items: center;
 }
 
+main .titrage-musique-main h3 {
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 7px;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
