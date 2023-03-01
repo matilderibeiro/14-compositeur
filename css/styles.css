@@ -99,6 +99,11 @@ main .titrage-musique-main h3 {
   letter-spacing: 7px;
 }
 
+main .musique-main {
+  background: #432613;
+  color: #bf996f;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
