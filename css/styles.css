@@ -38,6 +38,11 @@ header nav {
   color: #e2e2e1;
 }
 
+main  
+p {
+  padding: 20px;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
