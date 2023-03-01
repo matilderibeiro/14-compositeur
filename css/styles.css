@@ -69,6 +69,11 @@ main .compositeur-fond p {
   text-orientation: upright;
 }
 
+main .realisateur-fond p {
+  background-color: #7c9396;
+  margin: 0;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
