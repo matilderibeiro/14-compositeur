@@ -58,6 +58,17 @@ main .compositeur-fond p {
   background-color: #e2e2e1;
 }
 
+.titre-nom-realisateur {
+  position: absolute;
+  top: 120%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  font-size: 22px;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
 footer {
   background: #024a5e;
   color: #b18b70;
