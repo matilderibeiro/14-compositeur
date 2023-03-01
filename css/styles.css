@@ -9,7 +9,6 @@ body {
   color: #42301e;
   font-family: 'Cormorant Garamond', serif;
   font-size: 15px;
-  text-decoration: none;
 }
 
 img {
@@ -32,7 +31,6 @@ header {
   letter-spacing: 7px;
 }
 
-header nav {
   padding: 20px;
   text-align: center;
   color: #e2e2e1;
