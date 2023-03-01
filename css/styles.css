@@ -11,3 +11,12 @@ img {
   display: block;
   max-width: 100%;
 }
+footer {
+  background: #024a5e;
+  color: #b18b70;
+  border-width: 5px;
+  border-bottom: none;
+  padding: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
